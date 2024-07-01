@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "9E2AD61BD92965B8F18D80EC53CB642C",
+  "keywordClasses": [
+    {
+      "name": "mapClub.Regex",
+      "keywordMethods": [
+        {
+          "name": "extractInt",
+          "parameters": [
+            {
+              "name": "input",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
